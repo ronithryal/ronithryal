@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 my name is Ronith 
 
 ## Product Manager | Data Engineer | AI Builder 
 Georgia Tech Industrial Engineer (Analytics & Data Science) and Prev. Intern of Coinbase & Adobe.
