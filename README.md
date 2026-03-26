@@ -1,7 +1,7 @@
 ## Hi there 👋 my name is Ronith 
 
 ## Product Manager | Data Engineer | AI Builder 
-### Georgia Tech Industrial Engineer (Analytics & Data Science) and Prev. Intern of Coinbase & Adobe.
+### Prev: Coinbase, Adobe, VC Funds; Georgia Tech Industrial Engineering (Analytics & Data Science)
 ---
 ### ⚡ The Strategy
 I bridge the gap between complex data operations and product growth. Having managed payment flows & onboarding at **Coinbase** and automated revenue dashboards at **Adobe**, I now use AI to institutionalize that curiosity—building tools that automate research, ingest market signals, and scale productivity for PMs, ops, and investors. 
