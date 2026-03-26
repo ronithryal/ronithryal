@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-** Product Manager | Data Engineer | AI Builder **
+## Product Manager | Data Engineer | AI Builder 
 Georgia Tech Industrial Engineer (Analytics & Data Science) and Prev. Intern of Coinbase & Adobe.
 ---
 ### ⚡ The Strategy
