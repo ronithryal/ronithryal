@@ -8,13 +8,13 @@ I bridge the gap between complex data operations and product growth. Having mana
 
 ### 🧩 What I'm Building Now
 My current work focuses on using Large Language Models (LLMs) and Agents with Model Context Protocols (MCPs) to automate the "heavy lifting" of product research:
-- **[Crypto Intelligence](https://github.com/ronithryal/cryptoreports)**: Used agents and Dune MCP to write SQL queries to build institutional-grade research on liquidity stickiness (e.g., Morpho Blue).
-- **[Intelligence Ingestion](https://github.com/ronithryal/dex)**: Developing custom AI agents to transform high-volume LinkedIn and X signals into structured, searchable market intelligence and personal skill boosters.
+- **[Conductor](https://github.com/ronithryal/Conductor)**: A visual command center for AI agents: drag-and-drop workspace to design, deploy, and monitor multi-agent workflows without wiring everything together by hand.
+- **[GritHunter](https://github.com/ronithryal/GritHunter)**: Technical talent intelligence for startups: Perplexity-powered proof-of-work search that surfaces engineers by what they’ve actually built, not how they keyword-stuffed a resume.
+- **[Crypto Intelligence](https://github.com/ronithryal/cryptoreports)**: Using agents and Dune MCP to write SQL queries and institutional-grade crypto research
 
-- **[savewithmarginalia](https://github.com/ronithryal/savewithmarginalia)**: Building a Next.js/Supabase UI to bridge local AI reasoning with web-accessible research dashboards.
   
-### 💼 Prior Proof of Work
-- **Coinbase (APM Intern)**: Reduced friction in retail onboarding by 17% through high-fidelity SQL/Python funnel analysis.
+### 💼 Experience
+- **Coinbase (APM Intern)**: Reduced friction in retail onboarding by 17% through high-fidelity SQL/Python funnel analysis. [see here](https://stitch.withgoogle.com/preview/17486521917182912285?node-id=1878a1671a8f4c088ea5f0ff854d0c53)
 - **Adobe (Technical PM Intern)**: Scaled sales ops for 200+ enterprise accounts by automating dashboards and revenue workflows (UiPath + Tableau).
 - **Tech Square Ventures & Venture53 (VC Intern)**: Conducted due diligence on 75+ early-stage startups across Fintech and AI while assisting portfolio companies.
 - **Invest-ed Platforms (Co-Founder)**: Led design and regulatory alignment for a Gen-Z financial literacy platform.
