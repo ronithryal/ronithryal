@@ -8,7 +8,7 @@ I bridge the gap between complex data operations and product growth. Having mana
 
 ### 🧩 What I'm Building Now
 My current work focuses on using Large Language Models (LLMs) and Agents with Model Context Protocols (MCPs) to automate the "heavy lifting" of product research:
-- **[Conductor](https://github.com/ronithryal/Conductor)**: A visual command center for AI agents: drag-and-drop workspace to design, deploy, and monitor multi-agent workflows without wiring everything together by hand.
+- **[Conductor](https://github.com/ronithryal/Conductor)**: (in-progress) A visual command center for AI agents: drag-and-drop workspace to design, deploy, and monitor multi-agent workflows without wiring everything together by hand.
 - **[GritHunter](https://github.com/ronithryal/GritHunter)**: Technical talent intelligence for startups: Perplexity-powered proof-of-work search that surfaces engineers by what they’ve actually built, not how they keyword-stuffed a resume.
 - **[Crypto Intelligence](https://github.com/ronithryal/cryptoreports)**: Using agents and Dune MCP to write SQL queries and institutional-grade crypto research
 
