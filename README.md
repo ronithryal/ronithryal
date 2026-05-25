@@ -24,3 +24,5 @@ My current work focuses on using Large Language Models (LLMs) and Agents with Mo
 - **Data/BI**: Tableau, Databricks, AWS, Snowflake, Quicksight
 - **Frameworks**: Next.js, FastAPI, MCP (Model Context Protocol), Supabase
 
+### 
+- **What I shipped at Coinbase**: [App-to-App](https://stitch.withgoogle.com/preview/17486521917182912285?node-id=1878a1671a8f4c088ea5f0ff854d0c53)
